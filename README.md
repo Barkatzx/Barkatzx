@@ -42,8 +42,6 @@
 ###
 
 <br clear="both">
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h1 align="left">Connect Me:</h1>
 
