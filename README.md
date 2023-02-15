@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 align="left">I’m a Front End Web developer who is passionate about making error-free websites. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, and JavaScript as well.</h2>
+<h2 align="left">I’m a Junior Web developer who is passionate about making error-free websites. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with include ReactJS, and JavaScript as well.</h2>
 
 ###
 
