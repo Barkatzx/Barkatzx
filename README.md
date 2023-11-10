@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋! My name is  Barkat Ullah</h1>
 
 ###
@@ -7,11 +6,10 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="left">I'm Expert On:</h1>
 
 ###
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,nodejs,firebase,mongodb,express,wordpress,vscode,atom,bash,powershell,figma,git,github,netlify,vercel," />
@@ -20,9 +18,7 @@
 
 ###
 
-<br clear="both">
-
-<h1 align="left">Connect Me:</h1>
+<h1 align="left">Connect With Me:</h1>
 
 ###
 
