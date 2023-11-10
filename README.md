@@ -1,10 +1,7 @@
-<br clear="both">
 
 <h1 align="center">Hi 👋! My name is  Barkat Ullah</h1>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">Experienced Full Stack Developer adept at creating innovative web applications. Proficient in frontend technologies such as HTML, CSS, and JavaScript, as well as modern frameworks like React. Skilled in backend programming languages like Node.js and Javascript, with expertise in frameworks like Express.js. Strong database knowledge including MongoDB. Committed to delivering exceptional user experiences through end-to-end solutions.</h2>
 
