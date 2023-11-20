@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Experienced Full Stack Developer adept at creating innovative web applications. Proficient in frontend technologies such as HTML, CSS, and JavaScript, as well as modern frameworks like React. Skilled in backend programming languages like Node.js and Javascript, with expertise in frameworks like Express.js. Strong database knowledge including MongoDB. Committed to delivering exceptional user experiences through end-to-end solutions.</h2>
+<h2 align="left">I'm Experienced Full Stack Developer adept at creating innovative web applications. Proficient in frontend technologies such as HTML, CSS, and JavaScript, as well as modern frameworks like React. Skilled in backend programming languages like Node.js with expertise in frameworks like Express.js. Strong database knowledge including MongoDB. Committed to delivering exceptional user experiences through end-to-end solutions.</h2>
 
 <h1 align="left">I'm Expert On:</h1>
 
