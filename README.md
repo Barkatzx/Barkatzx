@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋! My name is  Barkat Ullah</h1>
+<h3 align="center">Hello! I'm Barkat Ullah</h1>
 
 ###
 
-<h2 align="left">I'm Experienced Full Stack Developer adept at creating innovative web applications. Proficient in frontend technologies such as HTML, CSS, and JavaScript, as well as modern frameworks like React. Skilled in backend programming languages like Node.js with expertise in frameworks like Express.js. Strong database knowledge including MongoDB. Committed to delivering exceptional user experiences through end-to-end solutions.</h2>
+<h5 align="left">I'm an Experienced Full Stack and WordPress Developer adept at creating innovative web applications. Proficient in frontend technologies such as HTML, CSS, and JavaScript, as well as modern frameworks like React. Skilled in backend programming languages like Node.js with expertise in frameworks like Express.js. Strong database knowledge including MongoDB. Committed to delivering exceptional user experiences through end-to-end solutions.</h2>
 
-<h1 align="left">I'm Expert On:</h1>
+<h3 align="left">I'm Expert On:</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="left">Connect With Me:</h1>
+<h3 align="left">Connect With Me:</h1>
 
 ###
 
