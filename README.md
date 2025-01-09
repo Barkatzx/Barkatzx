@@ -10,7 +10,7 @@ Experienced Full Stack and WordPress Developer with a proven track record in bui
 * 🖥️  See my portfolio at [Portfolio](http://barkatullah.netlify.app/)
 * ✉️  You can contact me at [barkatullah.zx@gmail.com](mailto:barkatullah.zx@gmail.com)
 * 🚀  I'm currently working on [MediCarePLC](http://medicareplc.com)
-* 🧠  I'm learning Typescript
+* 🧠  I'm learning Typescript, Redux, Mongoose
 * 🤝  I'm open to collaborating on Interesting Project
 * ⚡  I'm a quick learner and code lover
 
