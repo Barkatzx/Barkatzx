@@ -19,7 +19,7 @@ Experienced Full Stack and WordPress Developer with a proven track record in bui
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,materialui,js,jquery,react,redux,ts,nextjs,nodejs,firebase,mongodb,postgres,express,postman,docker,prisma,npm,wordpress,php,vscode,atom,bash,powershell,figma,git,github,netlify,vercel,heroku,notion" />
+    <img src="https://skillicons.dev/icons?i=flutter,js,react,,nextjs,ts,redux,nodejs,firebase,mongodb,postgres,express,postman,docker,prisma,wordpress,php,figma,netlify,vercel,notion,flutter" />
   </a>
 </p>
 
