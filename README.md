@@ -7,10 +7,10 @@ Full Stack Developer | WordPress Expert
 Experienced Full Stack and WordPress Developer with a proven track record in building dynamic, user-centered web applications. Proficient in front-end technologies including HTML, CSS, and JavaScript, and skilled in modern frameworks like React. Backed by strong expertise in backend technologies such as Node.js and Express.js and extensive knowledge of MongoDB databases. Dedicated to crafting seamless, high-performance applications that deliver exceptional user experiences from front to back. Passionate about driving projects from concept to completion, emphasizing quality and innovation.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Portfolio](http://barkatullah.netlify.app/)
+* 🖥️  See my portfolio at [Portfolio](http://barkatullah.vercel.app/)
 * ✉️  You can contact me at [barkatullah.zx@gmail.com](mailto:barkatullah.zx@gmail.com)
 * 🚀  I'm currently working on [MediCarePLC](http://medicareplc.com)
-* 🧠  I'm learning Typescript, Redux, Mongoose
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Interesting Project
 * ⚡  I'm a quick learner and code lover
 
@@ -19,7 +19,7 @@ Experienced Full Stack and WordPress Developer with a proven track record in bui
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,js,react,nextjs,ts,redux,nodejs,firebase,mongodb,postgres,express,postman,docker,prisma,wordpress,php,figma,netlify,vercel,notion,flutter" />
+    <img src="https://skillicons.dev/icons?i=flutter,js,react,nextjs,ts,redux,nodejs,firebase,mongodb,postgres,express,postman,docker,prisma,wordpress,php,figma,netlify,vercel,notion" />
   </a>
 </p>
 
