@@ -48,6 +48,3 @@ Experienced Full Stack and WordPress Developer with a proven track record in bui
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/barkatzx"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
-
----
-[![](https://visitcount.itsvg.in/api?id=barkatzx&icon=0&color=0)](https://visitcount.itsvg.in)
